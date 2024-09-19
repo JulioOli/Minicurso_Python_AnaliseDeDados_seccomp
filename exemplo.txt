@@ -1,3 +1,0 @@
-Este é um novo arquivo em Python.
-Estamos aprendendo manipulação de arquivos!
-Essa linha foi adicionada ao arquivo.
